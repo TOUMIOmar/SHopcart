@@ -100,9 +100,13 @@ html, body {
 }
 
 .main-footer {
-    background-color: #56CCF2;
-    color: white;
-    padding: .25em 0;
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("Images/omarboutique.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    
+    
+    
 }
 
 .main-footer-container {
